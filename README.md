@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saket687&" alt="saket687" /></p>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pro-top-star}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saket687}/count.svg" /></p>
